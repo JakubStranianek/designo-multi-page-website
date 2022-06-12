@@ -1,11 +1,16 @@
 import './App.css';
+import Header from './components/Header/header';
+import {Routes, Route} from "react-router-dom"
 
 function App() {
   return (
     <div className="App">
-      <h1 className="">
-     
-      </h1>
+      <Routes>
+        <Route path='/' element={<><Header/></>}/>
+        <Route path='/our-company' element={<><Header/></>}/>
+        <Route path='/location' element={<><Header/></>}/>
+        <Route path='/contact' element={<><Header/></>}/>
+      </Routes>
     </div>
   );
 }

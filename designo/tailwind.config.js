@@ -17,6 +17,13 @@ module.exports = {
       fontFamily: {
         "jost":  ['Jost', 'sans-serif']
       },
+
+      backgroundImage: {
+        "phone":  "url(assets/home/desktop/image-hero-phone.png)",
+        "web-mobile":  "url(assets/home/mobile/image-web-design.jpg)",
+        "app-mobile":  "url(assets/home/mobile/image-app-design.jpg)",
+        "graphic-mobile":  "url(assets/home/mobile/image-graphic-design.jpg)",
+      },
     },
   },
   plugins: [],

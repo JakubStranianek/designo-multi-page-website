@@ -24,7 +24,7 @@ const handleButton = () => {
 
         {/* Navbar section */}
 
-        <nav className={toggleButton ? "bg-myBlack flex items-center h-60 text-myWhite uppercase text-2xl font-jost font-normal" : "hidden"}>
+        <nav className={toggleButton ? "bg-myBlack flex items-center h-60 text-myWhite uppercase text-2xl font-normal" : "hidden"}>
             <div className='navBarText w-5/6 mr-auto ml-auto flex flex-col justify-between h-36'>
                 <Link to={"/our-company"}>our company</Link>
                 <Link to={"/our-locations"}>locations</Link>

@@ -23,6 +23,10 @@ module.exports = {
         "web-mobile":  "url(assets/home/mobile/image-web-design.jpg)",
         "app-mobile":  "url(assets/home/mobile/image-app-design.jpg)",
         "graphic-mobile":  "url(assets/home/mobile/image-graphic-design.jpg)",
+
+        "passionate-mobile":  "url(assets/home/desktop/illustration-passionate.svg)",
+        "resource-mobile":  "url(assets/home/desktop/illustration-resourceful.svg)",
+        "friendly-mobile":  "url(assets/home/desktop/illustration-friendly.svg)",
       },
     },
   },

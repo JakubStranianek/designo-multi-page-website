@@ -1,8 +1,8 @@
 import React from 'react'
 
-export default function home() {
+export default function Home() {
   return (
-    <div className='bg-peach flex flex-col items-center text-myWhite font-jost text-center'>
+    <div className='bg-peach flex flex-col items-center text-myWhite text-center'>
         <div className='w-4/5 flex flex-col items-center mt-20'>
             <h2 className='font-medium text-2xl'>Award-winning custom designs and digital branding solutions</h2>
 

@@ -13,7 +13,7 @@ export default function HomeProjects() {
         {
             id: "2",
             name: "APP DESIGN",
-            imageClassName: "bg-resource-mobile",
+            imageClassName: "bg-app-mobile",
             link: "/app-design"
         },
 
